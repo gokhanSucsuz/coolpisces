@@ -1,0 +1,26 @@
+﻿Cevap
+[16,21,11,8,12,22] -> Merge Sort aşamaları
+
+ilk aşama
+16,21,11	8,12,22
+
+ikinci aşama
+16,21	11		8,12		22
+
+üçüncü aşama
+16	21	11		8	12	22
+
+Buraya kadar tek tek tüm elemanlar ayrıştırıldı. 
+Bu adımdan sonra tüm elemanlar birleştirilirken sıralanacak.
+
+dördüncü aşama
+16,21	11		8,12		22
+
+beşinci aşama
+11,16,21		8,12,22
+
+altıncı aşama
+8,11,12,16,21,22
+
+Merge Sort Big O => n(log n) olur. 
+Çünkü yarılama işlemi logaritmik bir işlemdir.

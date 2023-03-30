@@ -1,4 +1,4 @@
-### Hi there 👋
+### All I Know Is That I Know Nothing 👋
 
 <!--
 **coolpisces/coolpisces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

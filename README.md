@@ -3,4 +3,4 @@
  Hi, I’m Gokhan SUCSUZ
 👀 I’m interested in software developing and engineering
 🌱 I’m currently learning C#, Flutter and Pyhton
-📫 Contact: coolpisces22@gmail.com / https://www.linkedin.com/in/gokhan-sucsuz-0912a4173/
+📫 Contact: coolpisces22@gmail.com

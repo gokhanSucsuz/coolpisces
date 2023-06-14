@@ -16,5 +16,5 @@
 <div>
   <img src="https://github.com/coolpisces/coolpisces/assets/11310915/43a30b79-c177-484d-88f5-6b6e2a86b33e" width="150px"> 
   <img src="https://github.com/coolpisces/coolpisces/assets/11310915/a685d70a-ba59-465a-826e-52fb0d736fa4" width="250px"> 
-  <img src="https://github.com/coolpisces/coolpisces/assets/11310915/c6062655-d2d8-4aa2-8188-b9946dc50465" width="600px">
+  <img src="https://github.com/coolpisces/coolpisces/assets/11310915/c6062655-d2d8-4aa2-8188-b9946dc50465" width="550px">
 </div>

@@ -15,5 +15,7 @@
 
   <img src="https://github.com/coolpisces/coolpisces/assets/11310915/03c52aff-97fd-4ed3-9ede-3296aa469da5" width="1000px"> 
 
-![2023-07-19_133604](https://github.com/coolpisces/coolpisces/assets/11310915/92d7a05f-f79d-49bd-bc0c-0cecc4542134)
+
+<img src="https://github.com/coolpisces/coolpisces/assets/11310915/03c52aff-97fd-4ed3-9ede-3296aa469da5" width="500px"> 
+
 
